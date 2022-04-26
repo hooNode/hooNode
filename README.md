@@ -48,6 +48,14 @@
   <img alt="vscode" src="https://img.shields.io/badge/Visual%20Studio%20Code-blue?style=flat-square&logo=visual-studio-code&logoColor=ffffff" />
 </p>
 
+**Design && Team Collaboration tools**
+<p>
+  <img alt="figma" src="https://img.shields.io/badge/-Figma-F24E1E?style=flat-square&logo=Figma&logoColor=ffffff" />
+  <img alt="XD" src="https://img.shields.io/badge/-Adobe XD-FF61F6?style=flat-square&logo=Adobe XD&logoColor=ffffff" />
+  <img alt="Adobe Photoshop" src="https://img.shields.io/badge/-Adobe Photoshop-31A8FF?style=flat-square&logo=Adobe Photoshop&logoColor=ffffff" />
+  <img alt="Notion" src="https://img.shields.io/badge/-Notion-000000?style=flat-square&logo=Notion&logoColor=ffffff" />
+</p>
+
 
 ![hooNode's GitHub stats](https://github-readme-stats.vercel.app/api?username=hooNode&show_icons=true&theme=tokyonight)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=hooNode&layout=compact&theme=tokyonight)
