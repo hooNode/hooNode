@@ -16,7 +16,7 @@ React를 중심으로 다양한 기술들에 관심을 갖고 '한 글자, 성�
     src="https://img.shields.io/badge/-TypeScript-007ACC?style=flat-square&logo=typescript&logoColor=white" />
   <img alt="Redux"
     src="https://img.shields.io/badge/-Redux-764ABC?style=flat-square&logo=Redux&logoColor=white" />
-  
+    
   <img alt="Apollo"
     src="https://img.shields.io/badge/-Apollo%20GraphQL-311C87?style=flat-square&logo=apollo-graphql&logoColor=white" />
   <img alt="GraphQL"
