@@ -1,5 +1,5 @@
 # hooNode<a href="https://www.hoonode.com/"> 보러가기</a>
-React를 중심으로 다양한 기술들에 관심을 갖고 '한 글자, 성장하는 프론트엔드 개발자입니다.'
+Web3를 중심으로 다양한 기술들에 관심을 갖고 '한 글자, 성장하는 프론트엔드 개발자입니다.'
     
 **FrontEnd Developer**
 
