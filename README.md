@@ -14,8 +14,8 @@ Web3를 중심으로 다양한 기술들에 관심을 갖고 '한 글자, 성장
 
 
 <p>
-<a><img align="center" style="height:195px" src="https://github-readme-stats.vercel.app/api?username=hooNode&show_icons=true&theme=tokyonight" /></a>
-<a><img align="center" style="height:195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=hooNode&layout=compact&theme=tokyonight" /></a></p>
+<!-- <a><img align="center" style="height:195px" src="https://github-readme-stats.vercel.app/api?username=hooNode&show_icons=true&theme=tokyonight" /></a>
+<a><img align="center" style="height:195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=hooNode&layout=compact&theme=tokyonight" /></a></p> -->
 
 
 
